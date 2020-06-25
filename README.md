@@ -1,2 +1,2 @@
-# Content_similarity_alg1
-Repository for the project Content Similarity Detection between 2 strings using algorithms.
+# Content similarity detection alg1
+Repository for the project Content Similarity Detection to detect similarity between two text documents using algorithms.
