@@ -1,3 +1,5 @@
+https://monkeylearn.com/topic-analysis/ 
+This article talks about Latent Dirichilet Allocation (LDA), which is useful to identify the topics in a document. This could help with Semantic Similarity
 
 https://core.ac.uk/download/pdf/19152661.pdf 
 pg 36 in this document has algorithms on document matching using suffix trees.Its not very simple to understand but we can try understanding.
